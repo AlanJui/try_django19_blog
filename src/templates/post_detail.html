@@ -41,8 +41,10 @@ Linkedin
 
 </p> -->
 <div class='row'>
-<div class='col-sm-12'>
+<div class='col-sm-12 content-markdown'>
 
+{#{{ object.content|linebreaks }}#}
+{#{{ object.content|safe }}#}
 {{ object.content|linebreaks }}
 
 <hr/>

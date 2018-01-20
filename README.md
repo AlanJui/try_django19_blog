@@ -3,8 +3,12 @@
 # Try Django 1.9 習作
 
 ### 課程來源
- - [YouTube channel](http://joincfe.com/youtube) 
+ - [YouTube 網站](http://joincfe.com/youtube) 
  - [Coding for Entrepreneurs](http://joincfe.com/projects/)
+
+### 學習目標
+
+ - 如何在 Blog 中顯示 HTML，  Markdown 輸出
 
 
 ### 專案摘要
