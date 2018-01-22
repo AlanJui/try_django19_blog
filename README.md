@@ -9,6 +9,7 @@
 ### 學習目標
 
  - 如何在 Blog 中顯示 HTML，  Markdown 輸出
+ - 在 Post 編輯，導入如：Stack Overflow 樣式之 Markdown Editor 功能（Django Pagedown） 
 
 
 ### 專案摘要
